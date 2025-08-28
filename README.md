@@ -43,7 +43,7 @@ I combine **design thinking and technical expertise** to create seamless digital
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hillary-Robert&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hillary-Robert&theme=tokyonight" alt="Streak Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hillary-Robert&theme=radical" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary-Robert&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
