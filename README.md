@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Hillary Robert 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Hillary-Robert">Software Developer</a> • 
-  <a href="https://www.linkedin.com/in/hillaryrobert30/">UI/UX Designer</a> • 
+  <a href="https://github.com/Hillary-Robert">Software Developer</a> • • 
+  <a href="https://www.linkedin.com/in/hillaryrobert30/">UI/UX Designer</a> • • 
   <a href="https://hillaryrobert.netlify.app/">Technologist</a>
 </p>
 
@@ -26,7 +26,7 @@ I combine **design thinking and technical expertise** to create seamless digital
 
 - **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS  
 - **Design & Prototyping:** Figma, Adobe XD, Responsive Web & Mobile Design, Prototyping  
-- **Other Expertise:** WordPress Development, GoHighLevel, Python, Git & GitHub, SEO & Performance Optimization, Electrical Systems  
+- **Other Expertise:** WordPress Development, GoHighLevel, Python, Git & GitHub, SEO & Performance Optimization
 
 ---
 
