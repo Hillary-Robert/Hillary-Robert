@@ -13,7 +13,8 @@
 ---
 
 ## 📝 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=22&color=2CB770&lines=Software+Developer;UI%2FUX+Designer;Frontend+Developer;React+%26+Next.js+Enthusiast;WordPress+%26+GoHighLevel+Developer;Electrical+Technician;Aspiring+Mechanical+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=22&color=2CB770&lines=Software+Developer;UI%2FUX+Designer;Frontend+Developer;React+%26+Next.js+Enthusiast;WordPress+Developer;GoHighLevel+Specialist;TypeScript+%26+JavaScript;TailwindCSS+Stylist;Electrical+Technician)](https://git.io/typing-svg)
+
 
 I’m a **software developer and UI/UX designer** passionate about building **scalable, user-centered applications**.  
 I combine **design thinking and technical expertise** to create seamless digital products — from **React/Next.js apps** to **WordPress solutions** and even **system-level tools**.  
