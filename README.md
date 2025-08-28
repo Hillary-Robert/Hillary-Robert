@@ -40,7 +40,7 @@ I combine **design thinking and technical expertise** to create seamless digital
 
 ---
 
-## 📊 GitHub Stats
+
 ## 📊 GitHub Stats
 <p align="center">
 
