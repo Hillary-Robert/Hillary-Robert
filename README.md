@@ -36,6 +36,10 @@ I combine **design thinking and technical expertise** to create seamless digital
   🔗 [View Gihub repo](https://github.com/Hillary-Robert/book-app)
    🔗 [View live Project](https://book-library-search.netlify.app/)
 
+- 📚 **Coffee Mobile App** — A simple coffee shop app made with Expo Router, React Native, and NativeWind (Tailwind).
+  🔗 [View Gihub repo](https://github.com/Hillary-Robert/alx-coffee-shop-app)
+   🔗 [View live Project](https://book-library-search.netlify.app/)
+
 
 
 ---
